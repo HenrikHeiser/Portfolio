@@ -1,0 +1,7 @@
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Debug\Einführungswoche_Konfigurator.exe.config
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Debug\Einführungswoche_Konfigurator.exe
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Debug\Einführungswoche_Konfigurator.pdb
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Debug\Einführungswoche_Konfigurator.csproj.AssemblyReference.cache
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Debug\Einführungswoche_Konfigurator.csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Debug\Einführungswoche_Konfigurator.exe
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Debug\Einführungswoche_Konfigurator.pdb

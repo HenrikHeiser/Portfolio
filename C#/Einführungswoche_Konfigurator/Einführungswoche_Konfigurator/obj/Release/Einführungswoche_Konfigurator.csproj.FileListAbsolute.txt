@@ -1,0 +1,6 @@
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Release\Einführungswoche_Konfigurator.exe.config
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Release\Einführungswoche_Konfigurator.exe
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\bin\Release\Einführungswoche_Konfigurator.pdb
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Release\Einführungswoche_Konfigurator.csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Release\Einführungswoche_Konfigurator.exe
+C:\Users\HEISERH\source\repos\Einführungswoche_Konfigurator\Einführungswoche_Konfigurator\obj\Release\Einführungswoche_Konfigurator.pdb
