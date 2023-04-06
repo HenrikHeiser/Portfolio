@@ -1,0 +1,16 @@
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\bin\Debug\Hundewelt.exe.config
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\bin\Debug\Hundewelt.exe
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\bin\Debug\Hundewelt.pdb
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.csproj.AssemblyReference.cache
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\MainWindow.g.cs
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\App.g.cs
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt_MarkupCompile.cache
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt_MarkupCompile.lref
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\MainWindow.baml
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.g.resources
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.Properties.Resources.resources
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.csproj.GenerateResource.cache
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.csproj.CoreCompileInputs.cache
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.exe
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.pdb
+\\sstr123f.edc.corpintra.net\HEISERH$\Data\My Documents\FiA 21\Coding Tag\CoDi - Objekt Orientierte Programmierung\Hundewelt\Hundewelt\obj\Debug\Hundewelt.csproj.SuggestedBindingRedirects.cache

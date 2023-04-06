@@ -1,0 +1,44 @@
+﻿<Window x:Class="Hundewelt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hundewelt"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="444" Width="824">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="104*"/>
+            <ColumnDefinition Width="583"/>
+            <ColumnDefinition Width="61"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="picture_dog" HorizontalAlignment="Left" Height="511" VerticalAlignment="Top" Width="auto" Source="w1200_h630_x768_y1024_a960a069e8364e76.jpg" Grid.ColumnSpan="7" Margin="0,-1,0,0"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="30" Margin="394,183,0,0" Stroke="Black" VerticalAlignment="Top" Width="211" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_anlegen" Content="Hund anlegen" HorizontalAlignment="Left" Margin="506,338,0,0" VerticalAlignment="Top" Width="99" Height="37" Background="#FFDDDDDD" Click="btn_anlegen_Click" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_bellen" Content="Bellen" HorizontalAlignment="Left" Margin="394,338,0,0" VerticalAlignment="Top" Width="99" Height="37" Click="btn_bellen_Click" Visibility="Hidden" Grid.Column="4"/>
+        <Button x:Name="btn_fressen" Content="Fressen" HorizontalAlignment="Left" Margin="281,338,0,0" VerticalAlignment="Top" Width="99" Height="37" Click="btn_fressen_Click" Visibility="Hidden" Grid.Column="4"/>
+        <Label x:Name="lbl_ausgabeausgabe" Content="Ausgabe" HorizontalAlignment="Left" Margin="395,150,0,0" VerticalAlignment="Top" Height="28" Width="74" Background="#FFC6C6C6" Grid.Column="4"/>
+        <Label x:Name="lbl_name" Content="Name: " HorizontalAlignment="Left" Margin="395,48,0,0" VerticalAlignment="Top" Height="29" Width="74" Background="#FFD0D0D0" Grid.Column="4"/>
+        <Label x:Name="lbl_alter" Content="Alter: " HorizontalAlignment="Left" Margin="395,82,0,0" VerticalAlignment="Top" Height="29" Width="74" Background="#FFCACACA" Grid.Column="4"/>
+        <RadioButton x:Name="rdbtn_mnl" Content="Männlich" HorizontalAlignment="Left" Margin="401,190,0,0" VerticalAlignment="Top" Background="#FFB4D6FF" Grid.Column="4"/>
+        <RadioButton x:Name="rdbtn_wbl" Content="Weiblich" HorizontalAlignment="Left" Margin="529,190,0,0" VerticalAlignment="Top" Background="#FFF7B2FF" Grid.Column="4" Grid.ColumnSpan="2" />
+        <TextBox x:Name="txtbx_name" HorizontalAlignment="Left" Height="29" Margin="469,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtbx_age" HorizontalAlignment="Left" Height="29" Margin="469,82,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Label x:Name="lbl_hundewelt" Content="Hundewelt" HorizontalAlignment="Left" Margin="150,10,0,0" VerticalAlignment="Top" Width="155" FontSize="30" Height="49" Grid.Column="4"/>
+        <ComboBox x:Name="drpdwn_rasse" HorizontalAlignment="Left" Margin="469,116,0,0" VerticalAlignment="Top" Width="136" Height="29" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <Label x:Name="lbl_rasse" Content="Rasse: " HorizontalAlignment="Left" Margin="395,116,0,0" VerticalAlignment="Top" Height="29" Width="74" Background="#FFBDBDBD" Grid.Column="4"/>
+        <ListBox x:Name="lstbx_values" HorizontalAlignment="Left" Height="327" Margin="30,48,0,0" VerticalAlignment="Top" Width="204" Foreground="Black" SelectionChanged="lstbx_values_SelectionChanged" Grid.Column="3" Grid.ColumnSpan="2">
+            <ListBox.Background>
+                <ImageBrush/>
+            </ListBox.Background>
+        </ListBox>
+        <Label x:Name="lbl_ausgabe" Content="" HorizontalAlignment="Left" Margin="469,150,0,0" VerticalAlignment="Top" Height="28" Width="136" Background="White" Grid.Column="4" Grid.ColumnSpan="2"/>
+
+
+
+    </Grid>
+</Window>
