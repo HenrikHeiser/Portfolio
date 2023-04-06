@@ -1,0 +1,27 @@
+<Alle>
+	<Person>
+		<Name>Schmidt</Name>
+		<Vorname>Tim</Vorname>
+		<Alter>18</Alter>
+	</Person>
+	<Person>
+		<Name>Mayer</Name>
+		<Vorname>Tina</Vorname>
+		<Alter>20</Alter>
+	</Person>
+	<Person>
+		<Name>Osman</Name>
+		<Vorname>Hesham</Vorname>
+		<Alter>30</Alter>
+	</Person>
+	<Person>
+		<Name>Heiser</Name>
+		<Vorname>Henrik</Vorname>
+		<Alter>19</Alter>
+	</Person>
+	<Person>
+		<Name>Hofmann</Name>
+		<Vorname>Maurice</Vorname>
+		<Alter>21</Alter>
+	</Person>
+</Alle>

@@ -1,0 +1,7 @@
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\bin\Debug\HeshamIstZwiegespalten(XMLtoJSON).exe.config
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\bin\Debug\HeshamIstZwiegespalten(XMLtoJSON).exe
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\bin\Debug\HeshamIstZwiegespalten(XMLtoJSON).pdb
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\obj\Debug\HeshamIstZwiegespalten(XMLtoJSON).csproj.AssemblyReference.cache
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\obj\Debug\HeshamIstZwiegespalten(XMLtoJSON).csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\obj\Debug\HeshamIstZwiegespalten(XMLtoJSON).exe
+C:\Users\HEISERH\source\repos\HeshamIstZwiegespalten(XMLtoJSON)\HeshamIstZwiegespalten(XMLtoJSON)\obj\Debug\HeshamIstZwiegespalten(XMLtoJSON).pdb
