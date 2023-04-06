@@ -1,0 +1,20 @@
+﻿<Window x:Class="Bankautomat.AuszahlenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bankautomat"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        Title="AuszahlenWindow" Height="450" Width="800" Background="LightGray">
+    <Grid>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="54" Stroke="Black" VerticalAlignment="Top" Width="795" Margin="0,0,-0.333,0"/>
+        <Image HorizontalAlignment="Left" Height="54" VerticalAlignment="Top" Width="226" Source="Mercedes-Benz Bank Logo.png" Margin="10,0,0,0"/>
+        <Button x:Name="BtnAuszahlen" Content="Betrag auszahlen" HorizontalAlignment="Left" Margin="455,324,0,0" VerticalAlignment="Top" Width="289" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnAuszahlen_Click"/>
+        <Rectangle Fill="White" HorizontalAlignment="Left" Height="177" Margin="45,71,0,0" Stroke="White" VerticalAlignment="Top" Width="699"/>
+        <Label Content="Bitte gewünschten Betrag eingeben" HorizontalAlignment="Left" Margin="260,80,0,0" VerticalAlignment="Top" Height="40" Width="278" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="txtBetrag" HorizontalAlignment="Left" Height="31" Margin="212,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" FontSize="22" Background="LightGray" TextAlignment="Center" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="24" Margin="565,130,0,0" VerticalAlignment="Top" Width="29" Source="keyboard-close.png"/>
+        <Button x:Name="BtnBack" Content="Zurück zum Menü" HorizontalAlignment="Left" Margin="45,324,0,0" VerticalAlignment="Top" Width="289" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnBack_Click"/>
+    </Grid>
+</Window>

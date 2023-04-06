@@ -1,0 +1,23 @@
+﻿<Window x:Class="Bankautomat.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bankautomat"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        Title="MenuWindow" Height="460" Width="800" Background="LightGray">
+    <Grid>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="54" Stroke="Black" VerticalAlignment="Top" Width="795" Margin="0,0,-0.333,0"/>
+        <Image HorizontalAlignment="Left" Height="54" VerticalAlignment="Top" Width="226" Source="Mercedes-Benz Bank Logo.png" Margin="10,0,0,0"/>
+        <Button x:Name="btnKontostandAbfragen" Content="Kontostand abfragen" HorizontalAlignment="Left" Margin="45,122,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="btnKontostandAbfragen_Click"/>
+        <Button x:Name="BtnEinzahlen" Content="Einzahlung" HorizontalAlignment="Left" Margin="45,201,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnEinzahlen_Click"/>
+        <Button x:Name="BtnAuszahlen" Content="Auszahlung" HorizontalAlignment="Left" Margin="45,284,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="BtnAuszahlen_Click"/>
+        <Label x:Name="txtBegruessung" Content="" Margin="10,59,10,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Background="White" BorderBrush="DarkGray" BorderThickness="1"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="54,122,0,0" VerticalAlignment="Top" Width="47" Source="currency-usd.png"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="54,201,0,0" VerticalAlignment="Top" Width="47" Source="cash.png" RenderTransformOrigin="0.404,2.5"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="54,284,0,0" VerticalAlignment="Top" Width="47" Source="cash-multiple.png" RenderTransformOrigin="0.404,2.5"/>
+        <Button x:Name="btnAbmelden" Content="Abmelden" HorizontalAlignment="Left" Margin="445,122,0,0" VerticalAlignment="Top" Width="306" Height="50" Background="White" BorderBrush="DarkGray" BorderThickness="1" FontSize="16" FontWeight="Bold" Click="btnAbmelden_Click"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="465,122,0,0" VerticalAlignment="Top" Width="47" Source="logout.png" RenderTransformOrigin="0.404,2.5"/>
+    </Grid>
+</Window>

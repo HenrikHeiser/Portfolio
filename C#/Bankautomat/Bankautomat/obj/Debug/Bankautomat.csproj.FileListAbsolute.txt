@@ -1,0 +1,75 @@
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe.config
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.pdb
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.AssemblyReference.cache
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\MainWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\App.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.cache
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.lref
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\MainWindow.baml
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.g.resources
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.Properties.Resources.resources
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.GenerateResource.cache
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.CoreCompileInputs.cache
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.exe
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.pdb
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\MenuWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\MenuWindow.baml
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.baml
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.baml
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.baml
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.g.cs
+C:\Users\MAUHOFM\Desktop\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe.config
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\bin\Debug\Bankautomat.pdb
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.AssemblyReference.cache
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\MainWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\MenuWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\App.g.cs
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.cache
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.lref
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\MainWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\MenuWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.baml
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.g.resources
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.Properties.Resources.resources
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.GenerateResource.cache
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.CoreCompileInputs.cache
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.exe
+C:\Users\HEOSMAN\Documents\#Mein Cloud\Git\Die-Nerds\Bankautomat\Bankautomat\obj\Debug\Bankautomat.pdb
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.AssemblyReference.cache
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\MainWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\MenuWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\App.g.cs
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.cache
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat_MarkupCompile.lref
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.exe
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.pdb
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe.config
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.exe
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\bin\Debug\Bankautomat.pdb
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\AuszahlenWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\EinzahlenWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\KontostandWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\MainWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\MenuWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\NeuesKontoFormularWindow.baml
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.g.resources
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.Properties.Resources.resources
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.GenerateResource.cache
+C:\Users\HEOSMAN\Desktop\Bankautomat\Bankautomat\obj\Debug\Bankautomat.csproj.CoreCompileInputs.cache
