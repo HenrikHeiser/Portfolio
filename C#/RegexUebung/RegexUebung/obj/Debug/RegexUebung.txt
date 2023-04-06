@@ -1,0 +1,8 @@
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\bin\Debug\VanSchaeuffelenHatLangeweile.exe.config
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\bin\Debug\VanSchaeuffelenHatLangeweile.exe
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\bin\Debug\VanSchaeuffelenHatLangeweile.pdb
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\obj\Debug\VanSchaeuffelenHatLangeweile.csproj.AssemblyReference.cache
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\obj\Debug\VanSchaeuffelenHatLangeweile.csproj.SuggestedBindingRedirects.cache
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\obj\Debug\VanSchaeuffelenHatLangeweile.csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\obj\Debug\VanSchaeuffelenHatLangeweile.exe
+C:\Users\HEISERH\source\repos\VanSchaeuffelenHatLangeweile\VanSchaeuffelenHatLangeweile\obj\Debug\VanSchaeuffelenHatLangeweile.pdb
