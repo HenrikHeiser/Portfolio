@@ -1,0 +1,28 @@
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe.config
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.pdb
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csprojAssemblyReference.cache
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Form1.resources
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Properties.Resources.resources
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csproj.GenerateResource.cache
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.exe
+D:\Dropbox\schule\E2\UE01-OOP\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.pdb
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe.config
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.pdb
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csprojAssemblyReference.cache
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Form1.resources
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Properties.Resources.resources
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csproj.GenerateResource.cache
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.exe
+D:\Dropbox\tmp\schule\OOP\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.pdb
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe.config
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.exe
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\bin\Debug\GeoFigurGUI2.pdb
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csproj.AssemblyReference.cache
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Form1.resources
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.Properties.Resources.resources
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csproj.GenerateResource.cache
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.exe
+C:\Users\HEISERH\Desktop\Desktop Ordner\Berufsschule\LJ 2\BfK-S\GeoFigurGUI2\obj\Debug\GeoFigurGUI2.pdb
