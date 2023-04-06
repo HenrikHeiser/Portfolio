@@ -1,0 +1,7 @@
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\bin\Debug\HeshamHatHunger.exe.config
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\bin\Debug\HeshamHatHunger.exe
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\bin\Debug\HeshamHatHunger.pdb
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\obj\Debug\HeshamHatHunger.csproj.AssemblyReference.cache
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\obj\Debug\HeshamHatHunger.csproj.CoreCompileInputs.cache
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\obj\Debug\HeshamHatHunger.exe
+C:\Users\HEISERH\source\repos\HeshamHatHunger\HeshamHatHunger\obj\Debug\HeshamHatHunger.pdb
