@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfZeugnisV2.erstellDaten"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfZeugnisV2"
+        mc:Ignorable="d"
+        Title="erstellDaten" Height="450" Width="800">
+    <Grid Margin="0,0,3.333,-19.333">
+        <TextBox x:Name="txtbx_ausbilder" Height="30" Width="200" Text="Ausbilder: " Margin="10,10,583.333,380.667"></TextBox>
+        <TextBox x:Name="txtbx_leitungKBA" Height="30" Width="200" Text="Leitung KBA: " Margin="10,45,583.333,345.667"></TextBox>
+        <TextBox x:Name="txtbx_ausstellungsOrt" Height="30" Width="200" Text="Ausstellungsort: " Margin="10,80,583.333,310.667"></TextBox>
+        <DatePicker x:Name="date_ausstellungsDatum" Height="50" Width="130" Margin="10,156,650,234" Text="Ausstellungsdatum: "></DatePicker>
+        <Label x:Name="label_ausstellungsDatum" Content="Ausstellungsdatum: " HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Width="130"/>
+        <Button x:Name="btn_save" Content="Speichern" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top" Width="75" Click="btn_save_Click"/>
+    </Grid>
+</Window>

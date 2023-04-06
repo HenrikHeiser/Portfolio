@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfZeugnisV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfZeugnisV2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_kompetenzen" Width="150" Height="75" FontSize="20" Margin="10,12,633.333,333.667" Click="btn_kompetenzen_Click">Kompetenzen</Button>
+        <Button x:Name="btn_pers_daten" Width="150" Height="75" FontSize="20" Margin="165,12,478.333,333.667" Click="btn_pers_daten_Click">persönl. Daten</Button>
+        <Button x:Name="btn_erstell_daten" Width="150" Height="75" FontSize="20" Margin="320,12,323.333,333.667" Click="btn_erstell_daten_Click">Erstell-Daten</Button>
+        <Button x:Name="btn_aubildungsInfos" Width="150" Height="75" FontSize="20" Margin="475,12,168.333,333.667" Click="btn_aubildungsInfos_Click">Ausbildungsinfos</Button>
+        <Label x:Name="label_infos" Margin="10,92,478.333,237.667"/>
+        <Label x:Name="label_ModerW" Margin="0,188,478.333,140.667"/>
+        <Label x:Name="label_erstellDaten" Height="100" Width="300" Margin="483,92,10.333,228.667" ></Label>
+    </Grid>
+</Window>
