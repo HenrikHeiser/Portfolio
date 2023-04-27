@@ -21,7 +21,7 @@ public class PG1 {
 
         // launch Chrome and direct it to the Base URL
         driver.get(baseUrl);
-
+        driver.findElement(By.id("userName")).sendKeys("value", "new value");
         // get the actual value of the title
         actualTitle = driver.getTitle();
 
